@@ -1,18 +1,18 @@
-<h2 align="center"> Hi there, I'm Ali Tahir 👋<h2>
-<h3 align="center">Computer Science Student | Flutter Developer | Python <h3>
-
+<h3  align="center"> Hi there, I'm Ali Tahir 👋 <br><br>
+Computer Science Student | Flutter Developer | Python <h3>
+<hr>
 <h6>🌱 I’m currently learning Flutter App Development and Databases</h6>
 
 <br>
 
-### 📫 How to reach me:
+### How to reach me:
 <a href="https://www.linkedin.com/in/ali-tahir-948454248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-tahir-948454248/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alitahir_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alitahir_10/" height="30" width="40" /></a>
 </h4>
 
 <br>
 
-### :abacus: Languages: 
+### Languages: 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -24,18 +24,18 @@
 
 <br>
 
-### :computer: Operating System: 
+### Operating System: 
 
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/windows-11.png" alt="windows11" width="40" height="40"/> </a>
 
 <br>
 
-### 🎖️ GitHub Trophies
+### GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsAliTahir&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-### 🔭 GitHub Stats
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsAliTahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsAliTahir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/username=itsAliTahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
