@@ -30,7 +30,7 @@ Computer Science Student | Flutter Developer | Python <h3>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/windows-11.png" alt="windows11" width="40" height="40"/> </a>
 
 <br>
-
+-->
 ### GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsAliTahir&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
