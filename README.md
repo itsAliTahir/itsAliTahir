@@ -1,10 +1,96 @@
-
-<h3 align="left">Hi there 👋</h3>
+<h3 align="left">Hi there, I'm Ali Tahir 👋</h3>
 
 <br>
 
-<h2 align="center">About Me 🚀</h2>
+<h2 align="center">About Me 🌱</h2>
 <hr>
+
+<p align="center">
+    I am an App Developer skilled in developing cross-platform apps using Flutter, with over 2 years of experience. I specialize in creating dynamic UIs that are user-friendly, visually stunning, and smooth in performance. I'm eager to apply my skills and grow further in the field of app development.
+</p>
+
+<br>
+
+<h2 align="center">Connect with me 🌐</h2>
+<hr>
+
+<p align="center">
+    <a href="mailto:alitahir2013@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a> 
+    <a href="https://www.linkedin.com/in/ali-tahir-948454248/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a> 
+    <a href="https://web.facebook.com/profile.php?id=100051901068678" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+</p>
+
+<br>
+
+<h2 align="center">Languages and Tools 🛠️</h2>
+<hr>
+
+<p align="center">
+    <a href="https://flutter.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+    </a> 
+    <a href="https://dart.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    </a> 
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a> 
+    <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+    </a> 
+    <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a> 
+    <a href="https://developer.android.com/studio" target="_blank">
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+    </a> 
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+    </a> 
+    <a href="https://www.sqlite.org/index.html" target="_blank">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    </a> 
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    </a> 
+    <a href="https://bloclibrary.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/BLoC-0A84FF?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+    </a>
+</p>
+
+
+<br>
+
+<h2 align="center">GitHub Trophies 🏆</h2>
+<hr>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=itsAliTahir&theme=radical" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">GitHub Stats 📊</h2>
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsAliTahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAliTahir&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+
+
 
 
 <!--
