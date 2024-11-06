@@ -1,4 +1,4 @@
-<!--
+
 <h3  align="center"> Hi there, I'm Ali Tahir 👋 <br><br>
 Computer Science Student | Flutter Developer | Python <h3>
 <hr>
@@ -30,7 +30,7 @@ Computer Science Student | Flutter Developer | Python <h3>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/windows-11.png" alt="windows11" width="40" height="40"/> </a>
 
 <br>
--->
+
 ### GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsAliTahir&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -42,7 +42,7 @@ Computer Science Student | Flutter Developer | Python <h3>
 ![](https://github-readme-streak-stats.herokuapp.com/username=itsAliTahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!--
+
 **itsAliTahir/itsAliTahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
