@@ -1,3 +1,123 @@
+
+<p align="center">
+<!--     <img src="title.svg" width="480px"/> -->
+</p>
+
+<h2 align="center">Hi There</h2>
+<p align="center">My name is Ali Tahir and welcome to my portfolio</p>
+
+```zsh
+-> ~/Portfolio git:(main) > ./start.sh
+```
+
+<img align="left" src="webdevelopment.svg" height="222px"/>
+
+```csharp
+    Human Information
+    ------------------------------------------
+    Name: Ali
+    Lastname: Tahir
+    Gender: Male
+    Age: 23
+    Hobbies: ["Football"], ["Coding"], ["Gaming"], ["Music"]
+    Languages: ["Urdu"], ["English"]
+```
+
+<br>
+<br>
+<br>
+
+<div align="center">
+ <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/flutter.png" width="65px"/>
+                <br /> Flutter
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/dart.png" width="65px"/>
+                <br /> Dart
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/python.png" width="65px"/>
+                <br /> Python
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/firebase.png" width="65px"/>
+                <br /> Firebase
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/django.png" width="65px"/>
+                <br /> Django
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="sqlite.png" width="65px"/>
+                <br /> SQLite
+            </td>
+        </tr>
+    </table>
+<img src="artificialintelligence.svg" height="245px"/>
+</div>
+<br>
+<br>
+<br>
+<div>
+
+<img align="left" src="givingback.svg" height="200px"/>
+
+```csharp
+Developer Skills
+------------------------------------------
+Language: ["Dart"], ["Python"], ["C++"], ["Java"] (basic)
+Frameworks: ["Flutter"], ["Provider"], ["BLoC"], ["Firebase"], ["Django"] (basic)
+Version Control: ["Git"], ["GitHub"]
+Backend: ["Firebase"], ["RESTFUL APIs"], ["SQLite"] (basic)
+```
+</div>
+
+
+
+<br>
+<br>
+<br>
+
+
+
+<div>
+
+```csharp
+Education
+------------------------------------------
+• Bachelor's in Computer Science (Pursuing)
+    University of Engineering and Technology Taxila, 2021 November - 2025 June.
+
+Experience
+------------------------------------------
+• Eziline Software House | Internship | 2024 March - 2024 May (3 Months)
+• Freelance Flutter Developer | 2023 August - 2024 October
+```
+    
+</div>
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Hi there, I'm Ali Tahir 👋</h3>
 
 <br>
