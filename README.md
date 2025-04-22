@@ -1,16 +1,25 @@
-
-<p align="center">
-<!--     <img src="title.svg" width="480px"/> -->
-</p>
-
+<br>
 <h2 align="center">Hi There</h2>
+
+
 <p align="center">My name is Ali Tahir and welcome to my portfolio</p>
+<div display:flex, align="center">
+<a href="https://www.instagram.com/yourusername/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-5222D0?logo=gmail&logoColor=ffffff"></a>
+<a href="https://www.instagram.com/yourusername/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-5222D0?&logoColor=ffffff"></a>
+<a href="https://www.instagram.com/yourusername/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-5222D0?logo=instagram&logoColor=ffffff"></a>
+</div>
 
-```zsh
--> ~/Portfolio git:(main) > ./start.sh
+<br>
+<br>
+
+```powershell
+-> ~/portfolio flutter:(stable) > flutter run
 ```
+<br>
+<br>
 
-<img align="left" src="svg/webdevelopment.svg" height="222px"/>
+<img align="left" src="svg/inspiration.svg" height="200px"/>
+
 
 ```csharp
     Human Information
@@ -42,10 +51,6 @@
                 <img src="icons/python.png" width="65px"/>
                 <br /> Python
             </td>
-             <td align="center" width="140" height="112.43">
-                <img src="icons/django.png" width="65px"/>
-                <br /> Django
-            </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
@@ -53,12 +58,8 @@
                 <br /> Firebase
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/github2.png" width="65px"/>
-                <br /> Github
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/sqlite.png" width="65px"/>
-                <br /> SQLite
+                <img src="icons/django.png" width="65px"/>
+                <br /> Django
             </td>
              <td align="center" width="140" height="112.43">
                 <img src="icons/restful.png" width="65px"/>
@@ -66,14 +67,14 @@
             </td>
         </tr>
     </table>
-<img src="svg/artificialintelligence.svg" height="245px"/>
+<img src="svg/artificialintelligence.svg" height="230px"/>
 </div>
 <br>
 <br>
 <br>
 <div>
 
-<img align="left" src="svg/givingback.svg" height="200px"/>
+<img align="left" src="svg/webdevelopment.svg" height="200px"/>
 
 ```csharp
     Developer Skills
@@ -82,6 +83,7 @@
     Frameworks: ["Flutter"], ["Provider"], ["BLoC"], ["Firebase"], ["Django"] (basic)
     Version Control: ["Git"], ["GitHub"]
     Backend: ["Firebase"], ["RESTFUL APIs"], ["SQLite"] (basic)
+    Other Skills: ["State Management"], ["Clean Architecture"], ["Debugging & Testing"]
 ```
 </div>
 
@@ -94,6 +96,8 @@
 
 
 <div>
+
+<img align="right" src="svg/givingback.svg" height="200px"/>
 
 ```csharp
 Education
@@ -111,7 +115,11 @@ Experience
 
 
 <br>
+<br>
 
+```powershell
+> run portfolio --show-projects
+```
 
 
 
