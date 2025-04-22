@@ -73,7 +73,7 @@
 <br>
 <div>
 
-<img align="left" src="givingback.svg" height="200px"/>
+<img align="left" src="svg/givingback.svg" height="200px"/>
 
 ```csharp
     Developer Skills
