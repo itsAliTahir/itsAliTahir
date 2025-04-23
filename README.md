@@ -18,9 +18,10 @@
 <br>
 <br>
 
-<img align="left" src="svg/inspiration.svg" height="200px"/>
+<img align="left" src="svg/inspiration.svg" width="30%" height="200px"/>
 
-
+<div width="30%">
+    
 ```csharp
     Human Information
     ------------------------------------------
@@ -32,12 +33,14 @@
     Languages: ["Urdu"], ["English"]
 ```
 
+</div>
+
 <br>
 <br>
 <br>
 
 <div align="center">
- <table align="left">
+ <table align="left" width = "70%" height="230px">
         <tr>
             <td align="center" width="140" height="112.43">
                 <img src="icons/flutter.png" width="65px"/>
@@ -67,15 +70,16 @@
             </td>
         </tr>
     </table>
-<img src="svg/artificialintelligence.svg" height="230px"/>
+<img  src="svg/artificialintelligence.svg" height="230px" width = "30%"/>
 </div>
 <br>
 <br>
 <br>
 <div>
 
-<img align="left" src="svg/webdevelopment.svg" height="200px"/>
-
+<img align="left" src="svg/webdevelopment.svg" height="200px" width = "30%"/>
+<div width ="70%">
+    
 ```csharp
     Developer Skills
     ------------------------------------------
@@ -86,6 +90,7 @@
     Other Skills: ["State Management"], ["Clean Architecture"], ["Debugging & Testing"]
 ```
 </div>
+</div>
 
 
 
@@ -97,8 +102,10 @@
 
 <div>
 
-<img align="right" src="svg/givingback.svg" height="200px"/>
+<img align="right" src="svg/givingback.svg" height="200px" width = "30%" />
 
+<div width ="70%">
+    
 ```csharp
 Education
 ------------------------------------------
@@ -112,6 +119,7 @@ Experience
 ```
     
 </div>
+</div>
 
 
 <br>
@@ -121,15 +129,14 @@ Experience
 > run portfolio --show-projects
 ```
 
-<!-- 
-<a href="https://github.com/Enhanced-TTVDropBot"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-      <a href="https://github.com/Enhanced-TTVDropBot"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-      <a href="https://github.com/Enhanced-TTVDropBot"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
--->
+<a href="https://github.com/itsAliTahir"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsAliTahir&repo=gemini-clone&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/itsAliTahir"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsAliTahir&repo=gemini-clone&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/itsAliTahir"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsAliTahir&repo=gemini-clone&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/itsAliTahir"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsAliTahir&repo=gemini-clone&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/itsAliTahir"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsAliTahir&repo=gemini-clone&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/itsAliTahir"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsAliTahir&repo=gemini-clone&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+
 
 
 
