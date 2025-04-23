@@ -23,14 +23,14 @@
 <div width="30%">
     
 ```csharp
-    Human Information
-    ------------------------------------------
-    Name: Ali Tahir
-    Age: 23
-    Role: Flutter Developer
-    Mindset: "Forever learning. Forever building."
-    Hobbies: ["Football"], ["Coding"], ["Gaming"], ["Music"]
-    Languages: ["Urdu"], ["English"]
+Human Information
+------------------------------------------
+Name: Ali Tahir
+Age: 23
+Role: Flutter Developer
+Mindset: "Forever learning. Forever building."
+Hobbies: ["Football"], ["Coding"], ["Gaming"], ["Music"]
+Languages: ["Urdu"], ["English"]
 ```
 
 </div>
@@ -81,13 +81,13 @@
 <div width ="70%">
     
 ```csharp
-    Developer Skills
-    ------------------------------------------
-    Language: ["Dart"], ["Python"], ["C++"], ["Java"] (basic)
-    Frameworks: ["Flutter"], ["Provider"], ["BLoC"], ["Firebase"], ["Django"] (basic)
-    Version Control: ["Git"], ["GitHub"]
-    Backend: ["Firebase"], ["RESTFUL APIs"], ["SQLite"] (basic)
-    Other Skills: ["MVVM"], ["Debugging & Testing"]
+Developer Skills
+------------------------------------------
+Language: ["Dart"], ["Python"], ["C++"], ["Java"] (basic)
+Frameworks: ["Flutter"], ["Provider"], ["BLoC"], ["Firebase"], ["Django"] (basic)
+Version Control: ["Git"], ["GitHub"]
+Backend: ["Firebase"], ["RESTFUL APIs"], ["SQLite"] (basic)
+Other Skills: ["MVVM"], ["Debugging & Testing"]
 ```
 </div>
 </div>
