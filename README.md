@@ -4,9 +4,9 @@
 
 <p align="center">My name is Ali Tahir and welcome to my portfolio</p>
 <div display:flex, align="center">
-<a href="https://www.instagram.com/yourusername/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-5222D0?logo=gmail&logoColor=ffffff"></a>
-<a href="https://www.instagram.com/yourusername/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-5222D0?&logoColor=ffffff"></a>
-<a href="https://www.instagram.com/yourusername/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-5222D0?logo=instagram&logoColor=ffffff"></a>
+<a href="mailto:alitahir2013@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-5222D0?logo=gmail&logoColor=ffffff"></a>
+<a href="https://www.linkedin.com/in/ali-tahir-948454248/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-5222D0?&logoColor=ffffff"></a>
+<a href="https://www.instagram.com/alitahir_10/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-5222D0?logo=instagram&logoColor=ffffff"></a>
 </div>
 
 <br>
@@ -87,7 +87,7 @@
     Frameworks: ["Flutter"], ["Provider"], ["BLoC"], ["Firebase"], ["Django"] (basic)
     Version Control: ["Git"], ["GitHub"]
     Backend: ["Firebase"], ["RESTFUL APIs"], ["SQLite"] (basic)
-    Other Skills: ["State Management"], ["Clean Architecture"], ["Debugging & Testing"]
+    Other Skills: ["MVVM"], ["Debugging & Testing"]
 ```
 </div>
 </div>
